@@ -1,0 +1,67 @@
+﻿@model Player
+
+<form asp-controller="Player" asp-action="Create" method="post" enctype="multipart/form-data">
+    <div class="mb-3">
+        <label asp-for="FotoUrl" class="form-label"></label>
+        <input asp-for=FotoUrl type="file" name="FotoUrl" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label asp-for="PlayerName" class="form-label">Oyuncu Ad Soyad</label>
+        <input asp-for=PlayerName class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label asp-for="PlayerBirthDay" class="form-label">Oyuncu Doğum Tarihi</label>
+        <input asp-for=PlayerBirthDay class="form-control" type="date" />
+    </div>
+    <div class="mb-3">
+        <label asp-for="Boy" class="form-label">Boy</label>
+        <input asp-for=Boy class="form-control"  />
+    </div>
+    <div class="mb-3">
+        <label asp-for="Kilo" class="form-label">Kilo</label>
+        <input asp-for=Kilo class="form-control" />
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="SmacYukseklik" class="form-label">Smaç Yüksekliği</label>
+        <input asp-for=SmacYukseklik class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label asp-for="BlokYukseklik" class="form-label">Blok Yüksekliği</label>
+        <input asp-for=BlokYukseklik class="form-control"/>
+    </div>
+    <div class="mb-3">
+        <label asp-for="KadinMi" class="form-label">Cinsiyet</label>
+        <select asp-for=KadinMi>
+            <option value="">Seçiniz</option>
+            <option value="True">Kadın</option>
+            <option value="False">Erkek</option>
+        </select>
+    </div>
+    <div class="mb-3">
+        <label asp-for="AktifMi" class="form-label">Kariyer Durumu</label>
+         <select asp-for=AktifMi>
+            <option value="">Seçiniz</option>
+            <option value="True">Aktif</option>
+            <option value="False">Kariyeri Sonlanmış</option>
+        </select>
+    </div>
+    <div class="mb-3">
+        <label asp-for="SagElMi" class="form-label">Oyuncu Hangi Eli Kullanıyor</label>
+        <select asp-for=SagElMi>
+            <option value="">Seçiniz</option>
+            <option value="True">Sağ</option>
+            <option value="False">Sol</option>
+        </select>
+    </div>
+   
+    <div class="mb-3">
+        <label asp-for="PositionId" class="form-label">Pozisyon</label>
+        <select asp-for="PositionId" asp-items="ViewBag.Position" class="form-control"></select>
+    </div>
+    <div class="mb-3">
+        <label asp-for="CountryId" class="form-label">Milliyet</label>
+        <select asp-for="CountryId" asp-items="ViewBag.Country" class="form-control"></select>
+    </div>
+    <button type="submit" class="btn btn-primary">Kaydet</button>
+</form>

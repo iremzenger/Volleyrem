@@ -1,0 +1,12 @@
+﻿@model Player
+
+
+<p>
+    <b>@Model.PlayerName</b> isimli oyuncuyu silmek istiyor musunuz?
+    <form asp-action="Delete" method="post">
+        <input type="hidden"  name="id" value="@Model.PlayerId" />
+        <button type="submit" class="btn btn-danger">Evet</button>
+        <a asp-action="List" class="btn btn-primary">Hayır</a> 
+    </form>
+</p>
+

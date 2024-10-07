@@ -1,0 +1,191 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\NEW\\Desktop\\Web Programlama\\WebApplication6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC707B9-C2D2-4D92-BBDB-9C623B2C85D6}|WebApplication6\\WebApplication6.csproj|c:\\users\\new\\desktop\\web programlama\\webapplication6\\webapplication6\\views\\player\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DC707B9-C2D2-4D92-BBDB-9C623B2C85D6}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\views\\player\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC707B9-C2D2-4D92-BBDB-9C623B2C85D6}|WebApplication6\\WebApplication6.csproj|c:\\users\\new\\desktop\\web programlama\\webapplication6\\webapplication6\\data\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DC707B9-C2D2-4D92-BBDB-9C623B2C85D6}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\data\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC707B9-C2D2-4D92-BBDB-9C623B2C85D6}|WebApplication6\\WebApplication6.csproj|c:\\users\\new\\desktop\\web programlama\\webapplication6\\webapplication6\\controllers\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DC707B9-C2D2-4D92-BBDB-9C623B2C85D6}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\controllers\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC707B9-C2D2-4D92-BBDB-9C623B2C85D6}|WebApplication6\\WebApplication6.csproj|c:\\users\\new\\desktop\\web programlama\\webapplication6\\webapplication6\\views\\player\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DC707B9-C2D2-4D92-BBDB-9C623B2C85D6}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\views\\player\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC707B9-C2D2-4D92-BBDB-9C623B2C85D6}|WebApplication6\\WebApplication6.csproj|c:\\users\\new\\desktop\\web programlama\\webapplication6\\webapplication6\\views\\player\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DC707B9-C2D2-4D92-BBDB-9C623B2C85D6}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\views\\player\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC707B9-C2D2-4D92-BBDB-9C623B2C85D6}|WebApplication6\\WebApplication6.csproj|c:\\users\\new\\desktop\\web programlama\\webapplication6\\webapplication6\\views\\player\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DC707B9-C2D2-4D92-BBDB-9C623B2C85D6}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\views\\player\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC707B9-C2D2-4D92-BBDB-9C623B2C85D6}|WebApplication6\\WebApplication6.csproj|c:\\users\\new\\desktop\\web programlama\\webapplication6\\webapplication6\\data\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DC707B9-C2D2-4D92-BBDB-9C623B2C85D6}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\data\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC707B9-C2D2-4D92-BBDB-9C623B2C85D6}|WebApplication6\\WebApplication6.csproj|c:\\users\\new\\desktop\\web programlama\\webapplication6\\webapplication6\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DC707B9-C2D2-4D92-BBDB-9C623B2C85D6}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC707B9-C2D2-4D92-BBDB-9C623B2C85D6}|WebApplication6\\WebApplication6.csproj|c:\\users\\new\\desktop\\web programlama\\webapplication6\\webapplication6\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DC707B9-C2D2-4D92-BBDB-9C623B2C85D6}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\NEW\\Desktop\\Web Programlama\\WebApplication6\\WebApplication6\\Views\\Player\\Details.cshtml",
+              "RelativeDocumentMoniker": "WebApplication6\\Views\\Player\\Details.cshtml",
+              "ToolTip": "C:\\Users\\NEW\\Desktop\\Web Programlama\\WebApplication6\\WebApplication6\\Views\\Player\\Details.cshtml",
+              "RelativeToolTip": "WebApplication6\\Views\\Player\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T17:19:27.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Country.cs",
+              "DocumentMoniker": "C:\\Users\\NEW\\Desktop\\Web Programlama\\WebApplication6\\WebApplication6\\Data\\Country.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Data\\Country.cs",
+              "ToolTip": "C:\\Users\\NEW\\Desktop\\Web Programlama\\WebApplication6\\WebApplication6\\Data\\Country.cs",
+              "RelativeToolTip": "WebApplication6\\Data\\Country.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T16:59:42.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\NEW\\Desktop\\Web Programlama\\WebApplication6\\WebApplication6\\Controllers\\PlayerController.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Controllers\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\NEW\\Desktop\\Web Programlama\\WebApplication6\\WebApplication6\\Controllers\\PlayerController.cs",
+              "RelativeToolTip": "WebApplication6\\Controllers\\PlayerController.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAAwLEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T15:28:08.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\NEW\\Desktop\\Web Programlama\\WebApplication6\\WebApplication6\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\NEW\\Desktop\\Web Programlama\\WebApplication6\\WebApplication6\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication6\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T15:15:28.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\NEW\\Desktop\\Web Programlama\\WebApplication6\\WebApplication6\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication6\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\NEW\\Desktop\\Web Programlama\\WebApplication6\\WebApplication6\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication6\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T14:53:50.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\NEW\\Desktop\\Web Programlama\\WebApplication6\\WebApplication6\\Views\\Player\\List.cshtml",
+              "RelativeDocumentMoniker": "WebApplication6\\Views\\Player\\List.cshtml",
+              "ToolTip": "C:\\Users\\NEW\\Desktop\\Web Programlama\\WebApplication6\\WebApplication6\\Views\\Player\\List.cshtml",
+              "RelativeToolTip": "WebApplication6\\Views\\Player\\List.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAD4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T14:35:01.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\NEW\\Desktop\\Web Programlama\\WebApplication6\\WebApplication6\\Views\\Player\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebApplication6\\Views\\Player\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\NEW\\Desktop\\Web Programlama\\WebApplication6\\WebApplication6\\Views\\Player\\Edit.cshtml",
+              "RelativeToolTip": "WebApplication6\\Views\\Player\\Edit.cshtml",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAAEEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T14:33:56.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\NEW\\Desktop\\Web Programlama\\WebApplication6\\WebApplication6\\Data\\Player.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Data\\Player.cs",
+              "ToolTip": "C:\\Users\\NEW\\Desktop\\Web Programlama\\WebApplication6\\WebApplication6\\Data\\Player.cs",
+              "RelativeToolTip": "WebApplication6\\Data\\Player.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T14:19:46.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\NEW\\Desktop\\Web Programlama\\WebApplication6\\WebApplication6\\Views\\Player\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApplication6\\Views\\Player\\Create.cshtml",
+              "ToolTip": "C:\\Users\\NEW\\Desktop\\Web Programlama\\WebApplication6\\WebApplication6\\Views\\Player\\Create.cshtml",
+              "RelativeToolTip": "WebApplication6\\Views\\Player\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T13:59:55.64Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 915,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
