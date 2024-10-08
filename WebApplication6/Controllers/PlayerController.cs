@@ -144,27 +144,27 @@ namespace WebApplication6.Controllers
                 model.FotoUrl = existingPlayer.FotoUrl;
             }
 
-            if (ModelState.IsValid)
-            {
-                try
-                {
-                    // Diğer alanları güncelle
-                    _context.Entry(existingPlayer).CurrentValues.SetValues(model);
-                    await _context.SaveChangesAsync();
-                    return RedirectToAction("List");
-                }
-                catch (DbUpdateConcurrencyException)
-                {
-                    if (!_context.Players.Any(p => p.PlayerId == model.PlayerId))
-                    {
-                        return NotFound();
-                    }
-                    else
-                    {
-                        throw;
-                    }
-                }
-            }
+            if(Model.IsValid)
+{
+try
+{
+_context.Update(model);
+await _context.SaveChangesAsync();
+}
+catch(DbConcurrencyException)
+{
+if(!_context.Players.Any(p => p.PlayerId==model.PlayerId)
+{
+return NotFound();
+}
+else
+{
+throw;
+}
+}
+return RedirectToAction("List");
+}
+
 
             // Pozisyon ve ülke bilgilerini hata durumunda ViewBag'e ekle
             var positions = _context.Positions.ToList();
